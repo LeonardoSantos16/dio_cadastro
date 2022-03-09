@@ -1,0 +1,15 @@
+C:\Users\Leonardo\Documents\csharp_gft\exercicios\app_cadastro_dio\dio_cadastro\bin\Debug\net6.0\dio_cadastro.exe
+C:\Users\Leonardo\Documents\csharp_gft\exercicios\app_cadastro_dio\dio_cadastro\bin\Debug\net6.0\dio_cadastro.deps.json
+C:\Users\Leonardo\Documents\csharp_gft\exercicios\app_cadastro_dio\dio_cadastro\bin\Debug\net6.0\dio_cadastro.runtimeconfig.json
+C:\Users\Leonardo\Documents\csharp_gft\exercicios\app_cadastro_dio\dio_cadastro\bin\Debug\net6.0\dio_cadastro.dll
+C:\Users\Leonardo\Documents\csharp_gft\exercicios\app_cadastro_dio\dio_cadastro\bin\Debug\net6.0\ref\dio_cadastro.dll
+C:\Users\Leonardo\Documents\csharp_gft\exercicios\app_cadastro_dio\dio_cadastro\bin\Debug\net6.0\dio_cadastro.pdb
+C:\Users\Leonardo\Documents\csharp_gft\exercicios\app_cadastro_dio\dio_cadastro\obj\Debug\net6.0\dio_cadastro.csproj.AssemblyReference.cache
+C:\Users\Leonardo\Documents\csharp_gft\exercicios\app_cadastro_dio\dio_cadastro\obj\Debug\net6.0\dio_cadastro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonardo\Documents\csharp_gft\exercicios\app_cadastro_dio\dio_cadastro\obj\Debug\net6.0\dio_cadastro.AssemblyInfoInputs.cache
+C:\Users\Leonardo\Documents\csharp_gft\exercicios\app_cadastro_dio\dio_cadastro\obj\Debug\net6.0\dio_cadastro.AssemblyInfo.cs
+C:\Users\Leonardo\Documents\csharp_gft\exercicios\app_cadastro_dio\dio_cadastro\obj\Debug\net6.0\dio_cadastro.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\Documents\csharp_gft\exercicios\app_cadastro_dio\dio_cadastro\obj\Debug\net6.0\dio_cadastro.dll
+C:\Users\Leonardo\Documents\csharp_gft\exercicios\app_cadastro_dio\dio_cadastro\obj\Debug\net6.0\ref\dio_cadastro.dll
+C:\Users\Leonardo\Documents\csharp_gft\exercicios\app_cadastro_dio\dio_cadastro\obj\Debug\net6.0\dio_cadastro.pdb
+C:\Users\Leonardo\Documents\csharp_gft\exercicios\app_cadastro_dio\dio_cadastro\obj\Debug\net6.0\dio_cadastro.genruntimeconfig.cache
